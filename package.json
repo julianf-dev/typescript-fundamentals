@@ -1,0 +1,15 @@
+{
+  "name": "fundamentals-typescript",
+  "version": "1.0.0",
+  "description": "fundamentos de typescript",
+  "main": "index.html",
+  "author": "JulianF <juliandavidbf@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
