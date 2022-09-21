@@ -6,7 +6,7 @@
   prices.push('122');
 
   let products = ['hola', true];
-  products.push(12); // Error porque de manera explicita no toma number
+ /*  products.push(12); */ // Error porque de manera explicita no toma number
 
   /* Cuando quiero cambiar los valores en runTime debo ejecutar de manera explicita*/
 
@@ -16,5 +16,5 @@
 
   let numbers = ['as']
   numbers.map(item => item == 'hola');
-  numbers.map(item => item*2); // Error por el tipo de dato
+  /* numbers.map(item => item*2); */ // Error por el tipo de dato
 })();

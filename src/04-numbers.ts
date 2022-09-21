@@ -16,10 +16,10 @@
   console.log('customerAge', customerAge);
 
   /* Cuando no se declara la variable */
-  console.log('Product in stock', productInStock);
+ /*  console.log('Product in stock', productInStock);
   if(productInStock > 10){
     console.log('is greater')
-  }
+  } */
 
   let discount = parseInt('aaa'); // Infiere el type number
   console.log('discount', discount); // NaN es type number
